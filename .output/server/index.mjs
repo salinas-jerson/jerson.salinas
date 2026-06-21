@@ -26,618 +26,618 @@ var public_assets_data_default = {
 	"/assets/inter-cyrillic-400-normal-HOLc17fK.woff": {
 		"type": "font/woff",
 		"etag": "\"2634-ivoNz55T3CYjsRGYVvI78V6Hg84\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 9780,
 		"path": "../public/assets/inter-cyrillic-400-normal-HOLc17fK.woff"
 	},
 	"/assets/inter-cyrillic-400-normal-obahsSVq.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1e20-2UATdNvSyhAwBTFW7JWXRnJeZyk\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7712,
 		"path": "../public/assets/inter-cyrillic-400-normal-obahsSVq.woff2"
 	},
 	"/assets/inter-cyrillic-500-normal-BasfLYem.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1edc-4p+L4DlZmQVqry+RH9lMmJQ+P0U\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7900,
 		"path": "../public/assets/inter-cyrillic-500-normal-BasfLYem.woff2"
 	},
 	"/assets/inter-cyrillic-500-normal-CxZf_p3X.woff": {
 		"type": "font/woff",
 		"etag": "\"26d4-lAKYDJFVYDMKcLY/oR+ZyfOsllA\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 9940,
 		"path": "../public/assets/inter-cyrillic-500-normal-CxZf_p3X.woff"
 	},
 	"/assets/inter-cyrillic-600-normal-4D_pXhcN.woff": {
 		"type": "font/woff",
 		"etag": "\"26d0-I2CCKTFIJy7UNImTmVTFMc8WGWM\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 9936,
 		"path": "../public/assets/inter-cyrillic-600-normal-4D_pXhcN.woff"
 	},
 	"/assets/inter-cyrillic-600-normal-CWCymEST.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1f24-tca4CMW+seK3RqmUMU0o0VZmyqg\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7972,
 		"path": "../public/assets/inter-cyrillic-600-normal-CWCymEST.woff2"
 	},
 	"/assets/inter-cyrillic-ext-400-normal-BQZuk6qB.woff2": {
 		"type": "font/woff2",
 		"etag": "\"27f8-vx2gCiZcZIS7BSyHWqEe1Lm5p8Y\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 10232,
 		"path": "../public/assets/inter-cyrillic-ext-400-normal-BQZuk6qB.woff2"
 	},
 	"/assets/inter-cyrillic-ext-400-normal-DQukG94-.woff": {
 		"type": "font/woff",
 		"etag": "\"3418-0efK3fiFhInlHHjq0SFm+GVey2Y\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 13336,
 		"path": "../public/assets/inter-cyrillic-ext-400-normal-DQukG94-.woff"
 	},
 	"/assets/inter-cyrillic-ext-500-normal-B0yAr1jD.woff2": {
 		"type": "font/woff2",
 		"etag": "\"28c0-a4jJ9g181ZteaPVR7IOs0hVwtQg\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 10432,
 		"path": "../public/assets/inter-cyrillic-ext-500-normal-B0yAr1jD.woff2"
 	},
 	"/assets/inter-cyrillic-ext-500-normal-BmqWE9Dz.woff": {
 		"type": "font/woff",
 		"etag": "\"348c-1TbeWRwD3bVotPqIc3c/7sVxfo0\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 13452,
 		"path": "../public/assets/inter-cyrillic-ext-500-normal-BmqWE9Dz.woff"
 	},
 	"/assets/inter-cyrillic-ext-600-normal-Bcila6Z-.woff": {
 		"type": "font/woff",
 		"etag": "\"3498-zNJjP5Amk16bEdqbbZNObDtX308\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 13464,
 		"path": "../public/assets/inter-cyrillic-ext-600-normal-Bcila6Z-.woff"
-	},
-	"/assets/inter-cyrillic-ext-600-normal-Dfes3d0z.woff2": {
-		"type": "font/woff2",
-		"etag": "\"28f4-KdWYNIoSwUf7MLulzakpM8nepFc\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
-		"size": 10484,
-		"path": "../public/assets/inter-cyrillic-ext-600-normal-Dfes3d0z.woff2"
 	},
 	"/assets/inter-greek-400-normal-B4URO6DV.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1e60-ha06h5lB7nxuWvNKf61Dcnc1d1I\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7776,
 		"path": "../public/assets/inter-greek-400-normal-B4URO6DV.woff2"
+	},
+	"/assets/inter-cyrillic-ext-600-normal-Dfes3d0z.woff2": {
+		"type": "font/woff2",
+		"etag": "\"28f4-KdWYNIoSwUf7MLulzakpM8nepFc\"",
+		"mtime": "2026-06-21T20:38:55.530Z",
+		"size": 10484,
+		"path": "../public/assets/inter-cyrillic-ext-600-normal-Dfes3d0z.woff2"
 	},
 	"/assets/inter-greek-400-normal-q2sYcFCs.woff": {
 		"type": "font/woff",
 		"etag": "\"26c4-bdX1N3nNMZxQdZJFiVUIvfgvPUk\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 9924,
 		"path": "../public/assets/inter-greek-400-normal-q2sYcFCs.woff"
 	},
 	"/assets/inter-greek-500-normal-BIZE56-Y.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1ef0-rzB1Hth7JnUPaEXqA8yr0SpwMxk\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7920,
 		"path": "../public/assets/inter-greek-500-normal-BIZE56-Y.woff2"
 	},
 	"/assets/inter-greek-500-normal-Xzm54t5V.woff": {
 		"type": "font/woff",
 		"etag": "\"26fc-aBzOXUzctfu1t0AWou6edVMARPA\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 9980,
 		"path": "../public/assets/inter-greek-500-normal-Xzm54t5V.woff"
 	},
 	"/assets/inter-greek-600-normal-BZpKdvQh.woff": {
 		"type": "font/woff",
 		"etag": "\"2730-u0VEy1HjIfUMvAeVgiAlRXW3Gg0\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 10032,
 		"path": "../public/assets/inter-greek-600-normal-BZpKdvQh.woff"
 	},
 	"/assets/inter-greek-600-normal-plRanbMR.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1f08-dL8q9T10oywr5Ie+w0fBRkD/K6s\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7944,
 		"path": "../public/assets/inter-greek-600-normal-plRanbMR.woff2"
 	},
 	"/assets/inter-greek-ext-400-normal-DGGRlc-M.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1490-FueWPOzdNQpScjKjfRcVv5Yv1HM\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 5264,
 		"path": "../public/assets/inter-greek-ext-400-normal-DGGRlc-M.woff2"
 	},
 	"/assets/inter-greek-ext-400-normal-KugGGMne.woff": {
 		"type": "font/woff",
 		"etag": "\"1b98-M0BooO/fFnrQlgRJzUMnDMWQ/Qo\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7064,
 		"path": "../public/assets/inter-greek-ext-400-normal-KugGGMne.woff"
 	},
 	"/assets/inter-greek-ext-500-normal-2j5mBUwD.woff": {
 		"type": "font/woff",
 		"etag": "\"1c18-qcQk7wkL8ZD2jgfjekhd8K3qWn0\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7192,
 		"path": "../public/assets/inter-greek-ext-500-normal-2j5mBUwD.woff"
 	},
 	"/assets/inter-greek-ext-500-normal-C4iEst2y.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1534-eUg1Jo5WjHY2xgQTOkilC7LKn3I\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 5428,
 		"path": "../public/assets/inter-greek-ext-500-normal-C4iEst2y.woff2"
 	},
 	"/favicon.png": {
 		"type": "image/png",
 		"etag": "\"851d8-I/YobDCuG2qoBo6NnVBiYXAjh9k\"",
-		"mtime": "2026-06-21T19:43:52.360Z",
+		"mtime": "2026-06-21T20:38:55.850Z",
 		"size": 545240,
 		"path": "../public/favicon.png"
 	},
 	"/assets/index-vZoiJNbn.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"85878-oI+2qbUgMcpcUnAPV80ET52C6Lc\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 546936,
 		"path": "../public/assets/index-vZoiJNbn.js"
 	},
 	"/og-image.png": {
 		"type": "image/png",
 		"etag": "\"147978-tPYc3iDvygb8SJyjf13B9A6e/D0\"",
-		"mtime": "2026-06-21T19:43:52.360Z",
+		"mtime": "2026-06-21T20:38:55.850Z",
 		"size": 1341816,
 		"path": "../public/og-image.png"
 	},
 	"/assets/inter-greek-ext-600-normal-B8X0CLgF.woff": {
 		"type": "font/woff",
 		"etag": "\"1c2c-ceWCifetUVyF5uPKYdA318gl/j8\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 7212,
 		"path": "../public/assets/inter-greek-ext-600-normal-B8X0CLgF.woff"
-	},
-	"/assets/inter-latin-500-normal-BL9OpVg8.woff": {
-		"type": "font/woff",
-		"etag": "\"7a34-RiJoWDij89wbmUrQ9vApTdR9iMs\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
-		"size": 31284,
-		"path": "../public/assets/inter-latin-500-normal-BL9OpVg8.woff"
-	},
-	"/assets/inter-latin-400-normal-C38fXH4l.woff2": {
-		"type": "font/woff2",
-		"etag": "\"5c70-aPZFxrb/EuJcVLE9TtEZ5jHcuyY\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
-		"size": 23664,
-		"path": "../public/assets/inter-latin-400-normal-C38fXH4l.woff2"
 	},
 	"/assets/inter-latin-400-normal-CyCys3Eg.woff": {
 		"type": "font/woff",
 		"etag": "\"77e8-SbvLwKxssThdk7eEO6Aafq1EDIA\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 30696,
 		"path": "../public/assets/inter-latin-400-normal-CyCys3Eg.woff"
 	},
 	"/assets/inter-latin-500-normal-Cerq10X2.woff2": {
 		"type": "font/woff2",
 		"etag": "\"5ed0-a2bHQb+Lw84kivBLIFGmSKODkdY\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 24272,
 		"path": "../public/assets/inter-latin-500-normal-Cerq10X2.woff2"
+	},
+	"/assets/inter-latin-400-normal-C38fXH4l.woff2": {
+		"type": "font/woff2",
+		"etag": "\"5c70-aPZFxrb/EuJcVLE9TtEZ5jHcuyY\"",
+		"mtime": "2026-06-21T20:38:55.530Z",
+		"size": 23664,
+		"path": "../public/assets/inter-latin-400-normal-C38fXH4l.woff2"
+	},
+	"/assets/inter-latin-500-normal-BL9OpVg8.woff": {
+		"type": "font/woff",
+		"etag": "\"7a34-RiJoWDij89wbmUrQ9vApTdR9iMs\"",
+		"mtime": "2026-06-21T20:38:55.530Z",
+		"size": 31284,
+		"path": "../public/assets/inter-latin-500-normal-BL9OpVg8.woff"
+	},
+	"/assets/inter-greek-ext-600-normal-DRtmH8MT.woff2": {
+		"type": "font/woff2",
+		"etag": "\"1538-GoE9+rMXdldLs0MUbnyI6GfidCU\"",
+		"mtime": "2026-06-21T20:38:55.530Z",
+		"size": 5432,
+		"path": "../public/assets/inter-greek-ext-600-normal-DRtmH8MT.woff2"
 	},
 	"/assets/inter-latin-600-normal-CiBQ2DWP.woff": {
 		"type": "font/woff",
 		"etag": "\"7a1c-7yTNkhBBRpiqSdmpUeo8hP6GAv8\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 31260,
 		"path": "../public/assets/inter-latin-600-normal-CiBQ2DWP.woff"
-	},
-	"/assets/inter-latin-600-normal-LgqL8muc.woff2": {
-		"type": "font/woff2",
-		"etag": "\"5f84-4NYfbcUR1koHKy9NyU4VXs8btvY\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 24452,
-		"path": "../public/assets/inter-latin-600-normal-LgqL8muc.woff2"
 	},
 	"/assets/inter-latin-ext-400-normal-77YHD8bZ.woff": {
 		"type": "font/woff",
 		"etag": "\"b9c8-Bhja6T6VCwLwb1wadgBSy3MfJBM\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 47560,
 		"path": "../public/assets/inter-latin-ext-400-normal-77YHD8bZ.woff"
-	},
-	"/assets/inter-latin-ext-400-normal-C1nco2VV.woff2": {
-		"type": "font/woff2",
-		"etag": "\"88b8-G/H4NxekwCldh2+r75P8W7SzF98\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 35e3,
-		"path": "../public/assets/inter-latin-ext-400-normal-C1nco2VV.woff2"
 	},
 	"/assets/inter-latin-ext-500-normal-BxGbmqWO.woff": {
 		"type": "font/woff",
 		"etag": "\"bd6c-QCyyMz9w4NbwgJiEMxZozI/r+Ds\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 48492,
 		"path": "../public/assets/inter-latin-ext-500-normal-BxGbmqWO.woff"
+	},
+	"/assets/inter-latin-ext-400-normal-C1nco2VV.woff2": {
+		"type": "font/woff2",
+		"etag": "\"88b8-G/H4NxekwCldh2+r75P8W7SzF98\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 35e3,
+		"path": "../public/assets/inter-latin-ext-400-normal-C1nco2VV.woff2"
 	},
 	"/assets/inter-latin-ext-500-normal-CV4jyFjo.woff2": {
 		"type": "font/woff2",
 		"etag": "\"8cb8-ncqRX/i2leXjDT1PI3s6qVpmf6g\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 36024,
 		"path": "../public/assets/inter-latin-ext-500-normal-CV4jyFjo.woff2"
-	},
-	"/assets/inter-latin-ext-600-normal-CIVaiw4L.woff": {
-		"type": "font/woff",
-		"etag": "\"be1c-8cD1HFH6FU9hlLytWwPGGUY70n4\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 48668,
-		"path": "../public/assets/inter-latin-ext-600-normal-CIVaiw4L.woff"
 	},
 	"/assets/inter-latin-ext-600-normal-D2bJ5OIk.woff2": {
 		"type": "font/woff2",
 		"etag": "\"8da4-7QGAEIYrxx26VfuVX2p4gRkHOKo\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 36260,
 		"path": "../public/assets/inter-latin-ext-600-normal-D2bJ5OIk.woff2"
+	},
+	"/assets/inter-latin-ext-600-normal-CIVaiw4L.woff": {
+		"type": "font/woff",
+		"etag": "\"be1c-8cD1HFH6FU9hlLytWwPGGUY70n4\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 48668,
+		"path": "../public/assets/inter-latin-ext-600-normal-CIVaiw4L.woff"
 	},
 	"/assets/inter-vietnamese-400-normal-Bbgyi5SW.woff": {
 		"type": "font/woff",
 		"etag": "\"1964-Uz2qf+4P37GRYrj2tnfiNdz3cwc\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 6500,
 		"path": "../public/assets/inter-vietnamese-400-normal-Bbgyi5SW.woff"
 	},
 	"/assets/inter-vietnamese-400-normal-DMkecbls.woff2": {
 		"type": "font/woff2",
 		"etag": "\"136c-x5LSIOvtcMpNpAaXtHsgRr9Y068\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 4972,
 		"path": "../public/assets/inter-vietnamese-400-normal-DMkecbls.woff2"
 	},
 	"/assets/inter-vietnamese-500-normal-DOriooB6.woff2": {
 		"type": "font/woff2",
 		"etag": "\"13f8-CUM23jWJKM6nB7lsyh1fHy5MoZ4\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 5112,
 		"path": "../public/assets/inter-vietnamese-500-normal-DOriooB6.woff2"
 	},
 	"/assets/inter-vietnamese-500-normal-mJboJaSs.woff": {
 		"type": "font/woff",
 		"etag": "\"19c4-GIi0pWixVrurGnEPzcWNPRmQHPA\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 6596,
 		"path": "../public/assets/inter-vietnamese-500-normal-mJboJaSs.woff"
 	},
 	"/assets/inter-vietnamese-600-normal-BuLX-rYi.woff": {
 		"type": "font/woff",
 		"etag": "\"19f0-dZ/EhN2gqjVMAOO8T5PiEnOw62w\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 6640,
 		"path": "../public/assets/inter-vietnamese-600-normal-BuLX-rYi.woff"
+	},
+	"/assets/inter-latin-600-normal-LgqL8muc.woff2": {
+		"type": "font/woff2",
+		"etag": "\"5f84-4NYfbcUR1koHKy9NyU4VXs8btvY\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 24452,
+		"path": "../public/assets/inter-latin-600-normal-LgqL8muc.woff2"
 	},
 	"/assets/inter-vietnamese-600-normal-Cc8MFFhd.woff2": {
 		"type": "font/woff2",
 		"etag": "\"13ec-+Z5aj32FhioUUaW+56MD6v89VjU\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 5100,
 		"path": "../public/assets/inter-vietnamese-600-normal-Cc8MFFhd.woff2"
 	},
 	"/assets/montserrat-cyrillic-400-normal-BPq32Q8K.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2ae4-BAOUDCqvFuM47p0Uw8GWesFDo5g\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 10980,
 		"path": "../public/assets/montserrat-cyrillic-400-normal-BPq32Q8K.woff2"
 	},
 	"/assets/montserrat-cyrillic-400-normal-jEs4Tk-Z.woff": {
 		"type": "font/woff",
 		"etag": "\"2aa0-Z5Dd4CcdfweMa4/BshRRz7wl3kg\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 10912,
 		"path": "../public/assets/montserrat-cyrillic-400-normal-jEs4Tk-Z.woff"
-	},
-	"/assets/inter-greek-ext-600-normal-DRtmH8MT.woff2": {
-		"type": "font/woff2",
-		"etag": "\"1538-GoE9+rMXdldLs0MUbnyI6GfidCU\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
-		"size": 5432,
-		"path": "../public/assets/inter-greek-ext-600-normal-DRtmH8MT.woff2"
 	},
 	"/assets/montserrat-cyrillic-600-normal-CQEPC0hM.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2b70-SId8mdxdiQUnXly44kdhDbK6c+8\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 11120,
 		"path": "../public/assets/montserrat-cyrillic-600-normal-CQEPC0hM.woff2"
 	},
 	"/assets/montserrat-cyrillic-600-normal-DUglwBrH.woff": {
 		"type": "font/woff",
 		"etag": "\"2ae0-qQqMEDfeobRRd4dM9wbK4VL7w3Y\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 10976,
 		"path": "../public/assets/montserrat-cyrillic-600-normal-DUglwBrH.woff"
 	},
 	"/assets/montserrat-cyrillic-700-normal-BvLYcGP1.woff": {
 		"type": "font/woff",
 		"etag": "\"2ab0-nVoqBHXGPFIa5v3aixeV9DdG6KA\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 10928,
 		"path": "../public/assets/montserrat-cyrillic-700-normal-BvLYcGP1.woff"
 	},
 	"/assets/montserrat-cyrillic-700-normal-D-Pqjtdp.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2b98-p7Wwl3faGZ2QXba+O5jbex2or6M\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 11160,
 		"path": "../public/assets/montserrat-cyrillic-700-normal-D-Pqjtdp.woff2"
 	},
 	"/assets/montserrat-cyrillic-800-normal-B_mUCQ9O.woff": {
 		"type": "font/woff",
 		"etag": "\"2aac-7s99+We+SAdq7pXdZdIHiicwNB0\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 10924,
 		"path": "../public/assets/montserrat-cyrillic-800-normal-B_mUCQ9O.woff"
 	},
 	"/assets/montserrat-cyrillic-800-normal-DDmpGQGC.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2bac-aytWJrStZ8Ryj6aPSag18W+PhtI\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 11180,
 		"path": "../public/assets/montserrat-cyrillic-800-normal-DDmpGQGC.woff2"
-	},
-	"/assets/montserrat-cyrillic-ext-400-normal-DRPPeomZ.woff": {
-		"type": "font/woff",
-		"etag": "\"2f38-O6SkN8RSgqnwHWUPMg8Y7T+khto\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 12088,
-		"path": "../public/assets/montserrat-cyrillic-ext-400-normal-DRPPeomZ.woff"
 	},
 	"/assets/montserrat-cyrillic-ext-400-normal-Xqov12YL.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2ea4-WlWiYHEMXHyDDquS78xsBx7D7WQ\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 11940,
 		"path": "../public/assets/montserrat-cyrillic-ext-400-normal-Xqov12YL.woff2"
+	},
+	"/assets/montserrat-cyrillic-ext-400-normal-DRPPeomZ.woff": {
+		"type": "font/woff",
+		"etag": "\"2f38-O6SkN8RSgqnwHWUPMg8Y7T+khto\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 12088,
+		"path": "../public/assets/montserrat-cyrillic-ext-400-normal-DRPPeomZ.woff"
 	},
 	"/assets/montserrat-cyrillic-ext-600-normal-BtBW-rpm.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2f1c-8klix5SRWaO+tPKB/v43s6udJvc\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 12060,
 		"path": "../public/assets/montserrat-cyrillic-ext-600-normal-BtBW-rpm.woff2"
 	},
 	"/assets/montserrat-cyrillic-ext-600-normal-wReYPmz2.woff": {
 		"type": "font/woff",
 		"etag": "\"2f34-PPGmoElPFNdJyRVuelykBT5kZLI\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 12084,
 		"path": "../public/assets/montserrat-cyrillic-ext-600-normal-wReYPmz2.woff"
 	},
 	"/assets/montserrat-cyrillic-ext-700-normal-D-Mk2xRJ.woff": {
 		"type": "font/woff",
 		"etag": "\"2f2c-fzxCojsVlnue/J8ctghrSN3rf6g\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 12076,
 		"path": "../public/assets/montserrat-cyrillic-ext-700-normal-D-Mk2xRJ.woff"
 	},
 	"/assets/montserrat-cyrillic-ext-700-normal-MyDreaeu.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2f1c-DHRdoXReqprKnUPWqLAD1httwfY\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 12060,
 		"path": "../public/assets/montserrat-cyrillic-ext-700-normal-MyDreaeu.woff2"
 	},
 	"/assets/montserrat-cyrillic-ext-800-normal-GOAQXnVZ.woff2": {
 		"type": "font/woff2",
 		"etag": "\"2f70-ID/hnxaPdISmbUXfnmVGyxKpHD0\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 12144,
 		"path": "../public/assets/montserrat-cyrillic-ext-800-normal-GOAQXnVZ.woff2"
 	},
 	"/assets/montserrat-cyrillic-ext-800-normal-mB3PmEeV.woff": {
 		"type": "font/woff",
 		"etag": "\"2f04-xe+crpUVyzP7ZboqKuus9MZ81+w\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 12036,
 		"path": "../public/assets/montserrat-cyrillic-ext-800-normal-mB3PmEeV.woff"
 	},
 	"/assets/montserrat-latin-400-normal-BLhwKU8k.woff2": {
 		"type": "font/woff2",
 		"etag": "\"495c-biZYrXPdoYPU+il5gJpzoMKdIck\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 18780,
 		"path": "../public/assets/montserrat-latin-400-normal-BLhwKU8k.woff2"
 	},
 	"/assets/montserrat-latin-400-normal-xItZbAXg.woff": {
 		"type": "font/woff",
 		"etag": "\"50a8-4bK85GhNQnM5K12kKDNIgaj5/L8\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 20648,
 		"path": "../public/assets/montserrat-latin-400-normal-xItZbAXg.woff"
 	},
 	"/assets/montserrat-latin-600-normal-CdhFl4lI.woff": {
 		"type": "font/woff",
 		"etag": "\"5044-WGMKb2HDOrtug05bR828KXBPdmk\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 20548,
 		"path": "../public/assets/montserrat-latin-600-normal-CdhFl4lI.woff"
 	},
 	"/assets/montserrat-latin-600-normal-UVxSCcoG.woff2": {
 		"type": "font/woff2",
 		"etag": "\"4900-pPZKuKD6IaC1RRHFZpX9X1KzhMA\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 18688,
 		"path": "../public/assets/montserrat-latin-600-normal-UVxSCcoG.woff2"
 	},
 	"/assets/montserrat-latin-700-normal-BWkrl476.woff": {
 		"type": "font/woff",
 		"etag": "\"50c0-DktVomtjpC2PDGnVYGRbb+EI2bE\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 20672,
 		"path": "../public/assets/montserrat-latin-700-normal-BWkrl476.woff"
 	},
 	"/assets/montserrat-latin-700-normal-BdjcYUrC.woff2": {
 		"type": "font/woff2",
 		"etag": "\"4988-rl2hXWaG6Hb2HUuUr3afIuZcBtU\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 18824,
 		"path": "../public/assets/montserrat-latin-700-normal-BdjcYUrC.woff2"
 	},
 	"/assets/montserrat-latin-800-normal-axpkC1rd.woff2": {
 		"type": "font/woff2",
 		"etag": "\"4a44-ojeJahNRvgCRJeifjfE5CqSRI84\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 19012,
 		"path": "../public/assets/montserrat-latin-800-normal-axpkC1rd.woff2"
 	},
 	"/assets/montserrat-latin-800-normal-C3dfDxXV.woff": {
 		"type": "font/woff",
 		"etag": "\"50b4-uRo3NZ5JIaEhtYE4Yb5oy2BTW0U\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 20660,
 		"path": "../public/assets/montserrat-latin-800-normal-C3dfDxXV.woff"
 	},
 	"/assets/montserrat-latin-ext-400-normal-B8bwfy6Y.woff2": {
 		"type": "font/woff2",
 		"etag": "\"7e10-eO4GIuWdJO3Qzx83tdrueZyrsw0\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 32272,
 		"path": "../public/assets/montserrat-latin-ext-400-normal-B8bwfy6Y.woff2"
 	},
 	"/assets/montserrat-latin-ext-400-normal-BffdBkAA.woff": {
 		"type": "font/woff",
 		"etag": "\"9db0-YYQZiWs0IVmpOZtRXUQyAJz5qHw\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 40368,
 		"path": "../public/assets/montserrat-latin-ext-400-normal-BffdBkAA.woff"
 	},
 	"/assets/montserrat-latin-ext-600-normal-CSDhkhgS.woff": {
 		"type": "font/woff",
 		"etag": "\"a04c-IsrrKLlU9grx3BxFBVIcMRoBuj8\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 41036,
 		"path": "../public/assets/montserrat-latin-ext-600-normal-CSDhkhgS.woff"
 	},
 	"/assets/montserrat-latin-ext-600-normal-DSkTqI9L.woff2": {
 		"type": "font/woff2",
 		"etag": "\"81a8-h8khaqgR1tELXsgp2Jd8N31OpmI\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 33192,
 		"path": "../public/assets/montserrat-latin-ext-600-normal-DSkTqI9L.woff2"
 	},
 	"/assets/montserrat-latin-ext-700-normal-BOP2Nhf0.woff2": {
 		"type": "font/woff2",
 		"etag": "\"82fc-XDvrsjcht7SienQdg6KQtQ7MvtQ\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 33532,
 		"path": "../public/assets/montserrat-latin-ext-700-normal-BOP2Nhf0.woff2"
 	},
 	"/assets/montserrat-latin-ext-700-normal-DdDFr05Z.woff": {
 		"type": "font/woff",
 		"etag": "\"a180-4GCSOKJxAO807BD61P/CFS6eQ24\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 41344,
 		"path": "../public/assets/montserrat-latin-ext-700-normal-DdDFr05Z.woff"
 	},
 	"/assets/montserrat-latin-ext-800-normal-BBvmbyWk.woff2": {
 		"type": "font/woff2",
 		"etag": "\"8358-Dtm32m4H0rLs1yguaX8xBcmGBPY\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 33624,
 		"path": "../public/assets/montserrat-latin-ext-800-normal-BBvmbyWk.woff2"
-	},
-	"/assets/montserrat-vietnamese-400-normal-BeEscFYY.woff": {
-		"type": "font/woff",
-		"etag": "\"1c64-+sedllZNX0cqVuahrDnrdA+h4yU\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 7268,
-		"path": "../public/assets/montserrat-vietnamese-400-normal-BeEscFYY.woff"
 	},
 	"/assets/montserrat-latin-ext-800-normal-Wjq_OapB.woff": {
 		"type": "font/woff",
 		"etag": "\"a2d8-11gB1q/yepBXR1jVgyF9IRF28Ns\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 41688,
 		"path": "../public/assets/montserrat-latin-ext-800-normal-Wjq_OapB.woff"
 	},
-	"/assets/montserrat-vietnamese-600-normal-DKe6qT_E.woff2": {
-		"type": "font/woff2",
-		"etag": "\"1ee0-Sds0N5g8wgAdC4lYpM/pd9Xxw2s\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 7904,
-		"path": "../public/assets/montserrat-vietnamese-600-normal-DKe6qT_E.woff2"
+	"/assets/montserrat-vietnamese-400-normal-BeEscFYY.woff": {
+		"type": "font/woff",
+		"etag": "\"1c64-+sedllZNX0cqVuahrDnrdA+h4yU\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 7268,
+		"path": "../public/assets/montserrat-vietnamese-400-normal-BeEscFYY.woff"
 	},
 	"/assets/montserrat-vietnamese-400-normal-D4oHqQTd.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1ed8-/6k5KsO2vKu/Gi3n605RziFEg/c\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 7896,
 		"path": "../public/assets/montserrat-vietnamese-400-normal-D4oHqQTd.woff2"
+	},
+	"/assets/montserrat-vietnamese-600-normal-DKe6qT_E.woff2": {
+		"type": "font/woff2",
+		"etag": "\"1ee0-Sds0N5g8wgAdC4lYpM/pd9Xxw2s\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 7904,
+		"path": "../public/assets/montserrat-vietnamese-600-normal-DKe6qT_E.woff2"
 	},
 	"/assets/montserrat-vietnamese-600-normal-SJ-HTWuM.woff": {
 		"type": "font/woff",
 		"etag": "\"1c88-V+Jv927Rl1BXcc307ZKNEkhp0qo\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 7304,
 		"path": "../public/assets/montserrat-vietnamese-600-normal-SJ-HTWuM.woff"
 	},
 	"/assets/montserrat-vietnamese-700-normal-C0x1De3p.woff2": {
 		"type": "font/woff2",
 		"etag": "\"1ee0-nU7lIy029+qoNeCLkmeF2zhr73o\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 7904,
 		"path": "../public/assets/montserrat-vietnamese-700-normal-C0x1De3p.woff2"
 	},
 	"/assets/montserrat-vietnamese-700-normal-DnwGT2D9.woff": {
 		"type": "font/woff",
 		"etag": "\"1c88-/VllKNORyBqOzJ6G6aqSr5GT408\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 7304,
 		"path": "../public/assets/montserrat-vietnamese-700-normal-DnwGT2D9.woff"
-	},
-	"/assets/montserrat-vietnamese-800-normal-BDwqwvSG.woff2": {
-		"type": "font/woff2",
-		"etag": "\"1edc-NFCuUvIZgmIJHL22pFeltLf3cBk\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 7900,
-		"path": "../public/assets/montserrat-vietnamese-800-normal-BDwqwvSG.woff2"
 	},
 	"/assets/montserrat-vietnamese-800-normal-Chy8GRiB.woff": {
 		"type": "font/woff",
 		"etag": "\"1ca0-/rzSPcHEx5w8ot5209DotUFz2Es\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 7328,
 		"path": "../public/assets/montserrat-vietnamese-800-normal-Chy8GRiB.woff"
+	},
+	"/assets/montserrat-vietnamese-800-normal-BDwqwvSG.woff2": {
+		"type": "font/woff2",
+		"etag": "\"1edc-NFCuUvIZgmIJHL22pFeltLf3cBk\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 7900,
+		"path": "../public/assets/montserrat-vietnamese-800-normal-BDwqwvSG.woff2"
+	},
+	"/assets/styles-CRlbPRJh.css": {
+		"type": "text/css; charset=utf-8",
+		"etag": "\"1654d-H5M8mK2tkucZA5KMCNLH8Yh0Fgc\"",
+		"mtime": "2026-06-21T20:38:55.534Z",
+		"size": 91469,
+		"path": "../public/assets/styles-CRlbPRJh.css"
 	},
 	"/assets/routes-BkOLMXzF.js": {
 		"type": "text/javascript; charset=utf-8",
 		"etag": "\"1d86e-KuPrfWFzZZ/+RCb0t3GnP+1Qwtc\"",
-		"mtime": "2026-06-21T19:43:52.040Z",
+		"mtime": "2026-06-21T20:38:55.530Z",
 		"size": 120942,
 		"path": "../public/assets/routes-BkOLMXzF.js"
 	},
 	"/assets/profile-BAuu22Ta.png": {
 		"type": "image/png",
 		"etag": "\"3c2ad-Gpbj1lKWR77BzgYOtjoT8OxCz9M\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
+		"mtime": "2026-06-21T20:38:55.534Z",
 		"size": 246445,
 		"path": "../public/assets/profile-BAuu22Ta.png"
-	},
-	"/assets/styles-CRlbPRJh.css": {
-		"type": "text/css; charset=utf-8",
-		"etag": "\"1654d-H5M8mK2tkucZA5KMCNLH8Yh0Fgc\"",
-		"mtime": "2026-06-21T19:43:52.044Z",
-		"size": 91469,
-		"path": "../public/assets/styles-CRlbPRJh.css"
 	}
 };
 //#endregion
